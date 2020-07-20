@@ -1,3 +1,3 @@
-# zbrew-igy
+# zospm-igy
 Installation Repository for COBOL (IGY)
 
